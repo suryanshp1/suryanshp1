@@ -66,12 +66,4 @@ LLM-powered scraper that extracts structured insights from dynamic pages.
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryanshp1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshp1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 > 💡 *"Code that scales, systems that adapt, and AI that empowers."*
