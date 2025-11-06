@@ -53,22 +53,7 @@ Conversational assistant for basic medical queries using NLP models.
 
 #### 🕸️ [AI Web Scraper](https://github.com/suryanshp1/ai-webscrapper)
 LLM-powered scraper that extracts structured insights from dynamic pages.  
-> ⚙️ Selenium + Ollama + Prompt-based classification  
-
----
-
-### 🧠 Current Focus
-- Building **autonomous developer tools** using LLMs  
-- Experimenting with **FastAPI microservices + vLLM inference servers**  
-- Writing better **CI/CD & testing pipelines** for open-source projects  
-
----
-
-### 🧩 What You’ll Find Here
-- 🧰 Reusable backend templates & AI integrations  
-- 📖 Practical examples of FastAPI + LangChain  
-- 🔍 Security utilities and DevOps automation agents  
-- 💡 Experiments with scalable system architectures  
+> ⚙️ Selenium + Ollama + Prompt-based classification 
 
 ---
 
