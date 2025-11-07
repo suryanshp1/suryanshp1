@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Passionate about **AI-driven automation**, **backend scalability**, and **developer experience**  
+- 🧠 Passionate about **AI-driven automation**, **backend development**, and **cybersecurity**  
 - 🧩 Experienced in **Python, Django, FastAPI, LangChain, Docker, and AWS**  
 - 🔐 Exploring **DevSecOps & security automation** (created my own SAST agent)  
 - 💬 Love designing systems, mentoring devs, and experimenting with open-source tools  
