@@ -15,8 +15,6 @@
 - **Cybersecurity** & DevSecOps innovation
 - Built my own **SAST agent** for intelligent code analysis
 
-💡 *"Like Van Gogh painted emotions, I code experiences that empower."*
-
 🌏 **Currently seeking**: Remote roles in backend systems, AI agents, or data engineering
 
 ---
@@ -96,6 +94,6 @@
 
 ### 💡 *"Code that scales, systems that adapt, AI that empowers"*
 
-<sub>🎨 Inspired by Vincent van Gogh · Crafted with passion</sub>
+<sub>Crafted with passion</sub>
 
 </div>
