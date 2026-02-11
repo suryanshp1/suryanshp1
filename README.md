@@ -45,8 +45,6 @@
 🛠️ **Stack**: FastAPI · LangChain · OpenAI API · PDFKit  
 🚀 **Vision**: Automates creative workflows with AI-driven storytelling
 
-> *"Creativity automated, like brush meeting canvas."*
-
 ---
 
 ### 🔍 [Python SAST Agent](https://github.com/suryanshp1/python-SAST-agent)
@@ -55,8 +53,6 @@
 
 🧠 **Technique**: GitHub API + Python AST parsing  
 🔒 **Purpose**: Early prototype for intelligent DevSecOps automation
-
-> *"Guarding code integrity with the precision of a master's brushstroke."*
 
 ---
 
