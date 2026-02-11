@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Van Gogh Starry Night Animated Header -->
-<img src="https://raw.githubusercontent.com/suryanshp1/suryanshp1/main/.github/assets/header.svg" alt="Van Gogh Starry Night Header" width="100%"/>
+<!-- Original Van Gogh-Style Artwork by Antigravity -->
+<img src="https://raw.githubusercontent.com/suryanshp1/suryanshp1/main/.github/assets/header.png" alt="Van Gogh Starry Night - Suryansh Pandey" width="100%"/>
 
 </div>
 
