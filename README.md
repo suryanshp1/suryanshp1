@@ -11,7 +11,7 @@
 
 🧠 **Passionate Creator** focused on:
 - **AI-driven automation** that transforms workflows
-- **Backend development** with Python & FastAPI mastery  
+- **Backend development** with Django & FastAPI mastery  
 - **Cybersecurity** & DevSecOps innovation
 - Built my own **SAST agent** for intelligent code analysis
 
