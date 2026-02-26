@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Van Gogh Starry Night Banner -->
 <img src="https://raw.githubusercontent.com/suryanshp1/suryanshp1/main/.github/assets/header.png" alt="Van Gogh Starry Night" width="100%"/>
 
-</div>
+</div> -->
 
 ## 🎨 About Me
 
