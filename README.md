@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=".github/assets/header.gif" alt="Header" width="100%" />
+</div>
+
 # Suryansh Pandey
 Senior Backend & AI Systems Engineer
 
